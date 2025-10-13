@@ -4,6 +4,15 @@
   <img src="assets/banner.webp" width="100%" alt="Fullstack & AI Engineer Banner"/>
 </div>
 
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&color=00FFFF&center=true&vCenter=true&width=600&lines=Coding+is+my+language.;Reality+is+my+canvas.;The+future+is+my+project.">
+</h2>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284002-e8ca7f5a-6196-45bb-8e3d-3a3d0b8e4e0c.gif" width="100%">
+</p>
+
+
 <h1 align="center">👋 Hey there, I'm Arivalagan Sankar</h1>
 <h3 align="center">💻 Junior Full-Stack Developer (MERN) | SaaS | Cloud | AI-Ready | Chennai, India</h3>
 

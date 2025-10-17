@@ -49,7 +49,9 @@ Currently learning: **TypeScript, Next.js, Python, AI,ML, Deep learning, Gen AI,
 <a href="https://www.linkedin.com/in/arivalagan-sankar-339012380/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://www.naukri.com/mnjuser/profile"><img src="https://img.shields.io/badge/-Naukri-265DF5?style=for-the-badge&logo=naukri&logoColor=white" alt="Naukri" /></a>
 <a href="https://github.com/arivalagan-tech"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://github.com/arivalagan-tech/arivalagan-tech/raw/main/assets/Arivalagan_Sankar_Resume.pdf"><img src="https://img.shields.io/badge/-Resume-4B8BBE?style=for-the-badge&logo=adobeacrobat&logoColor=white" alt="Resume" /></a>
+<a href="https://github.com/arivalagan-tech/arivalagan-tech/raw/main/assets/Arivalagan_Resume.pdf">
+  <img src="https://img.shields.io/badge/-Resume-4B8BBE?style=for-the-badge&logo=adobeacrobat&logoColor=white" alt="Resume" />
+</a>
 <a href="https://wa.me/918220151020"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 
 

@@ -33,3 +33,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,50:DD2476,100:FF512F&height=140&section=header&text=🔥%20Build.%20Scale.%20Dominate.&fontSize=28&fontAlignY=70&animation=scaleIn"/>
 </p>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:141E30,100:243B55&height=140&section=header&text=🚀%20Full-Stack%20%7C%20AI%20Engineer&fontSize=28&fontAlignY=70&animation=fadeIn"/>
+</p>

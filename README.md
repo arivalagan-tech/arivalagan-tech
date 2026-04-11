@@ -15,3 +15,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,25:A020F0,50:00F3FF,75:FF8C42,100:FF5F6D&height=120&section=header&text=🚀%20Full-Stack%20%7C%20AI%20Engineer&fontSize=25&fontAlignY=70&animation=fadeIn"/>
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A020F0,50:00F3FF,100:A020F0&height=140&section=header&text=⚡%20Cyberpunk%20Engineer&fontSize=30&fontAlignY=70&animation=twinkling"/>
+</p>

@@ -19,3 +19,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A020F0,50:00F3FF,100:A020F0&height=140&section=header&text=⚡%20Cyberpunk%20Engineer&fontSize=30&fontAlignY=70&animation=twinkling"/>
 </p>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,50:FFC371,100:FF5F6D&height=140&section=header&text=🌇%20Lo-Fi%20Builder&fontSize=30&fontAlignY=70&animation=fadeIn"/>
+</p>

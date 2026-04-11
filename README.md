@@ -29,3 +29,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F3FF,100:0066FF&height=140&section=header&text=🤖%20AI%20Engineer&fontSize=30&fontAlignY=70&animation=blinking"/>
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,50:DD2476,100:FF512F&height=140&section=header&text=🔥%20Build.%20Scale.%20Dominate.&fontSize=28&fontAlignY=70&animation=scaleIn"/>
+</p>

@@ -7,7 +7,7 @@ Hey! Welcome to my profile—I'm Arivalagan. <img src="https://raw.githubusercon
 </h1>
 
 <p align="center">
-  🌍 Chennai, India &nbsp;&nbsp;|&nbsp;&nbsp; 💻 Building scalable SaaS & AI systems
+  A passionate Full-Stack Developer from India | 💻 Building scalable SaaS & AI systems
 </p>
 
 

@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-Hi, I'm Arivalagan. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+Hey! Welcome to my profile—I'm Arivalagan. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 </h1>
 
 <p align="center">

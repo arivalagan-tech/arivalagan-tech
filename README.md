@@ -26,9 +26,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F3FF,100:0066FF&height=140&section=header&text=🤖%20AI%20Engineer&fontSize=30&fontAlignY=70&animation=blinking"/>
-</p>
 
 
 

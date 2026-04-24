@@ -17,7 +17,7 @@ Hey! Welcome to my profile—I'm Arivalagan. <img src="https://raw.githubusercon
 
 
 <div align="center">
-  <img src="assets/face-AI.avif" width="100%" alt="AI Banner"/>
+  <img src="assets/git profile img.png" width="100%" alt="AI Banner"/>
 </div>
 
 

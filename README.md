@@ -56,7 +56,7 @@ Hey! Welcome to my profile—I'm Arivalagan. <img src="https://raw.githubusercon
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> -->
 
-<div align="center">
+<!-- <div align="center">
 	<picture>
 	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/smz-exe/smz-exe/output-3d-contrib/night.svg" />
 	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/smz-exe/smz-exe/output-3d-contrib/day.svg" />
@@ -68,6 +68,6 @@ Hey! Welcome to my profile—I'm Arivalagan. <img src="https://raw.githubusercon
 
 [![GitHub Streak](https://github-readme-streak-stats-xi-eight.vercel.app?user=smz-exe&theme=ambient-gradient&hide_border=true&card_width=854)](https://github.com/smz-exe)
 
-<br>
+<br> -->
 
 

@@ -1,6 +1,6 @@
 <p align="center">
-  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,25:A020F0,50:00F3FF,75:FF8C42,100:FF5F6D&height=120&section=header&fontAlignY=70&animation=fadeIn"/> -->
-	![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Think%20Simple&animation=fadeIn&fontAlign=73&fontAlignY=40&fontSize=60&color=gradient)
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Think%20Simple&animation=fadeIn&fontAlign=73&fontAlignY=40&fontSize=60&color=gradient"/>
+	<!-- ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Think%20Simple&animation=fadeIn&fontAlign=73&fontAlignY=40&fontSize=60&color=gradient) -->
 </p>
 
 <h1 align="center">

@@ -43,8 +43,8 @@ Hey! Welcome to my profile—I'm Arivalagan. <img src="https://raw.githubusercon
 
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> -->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 # Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 
@@ -66,8 +66,8 @@ Hey! Welcome to my profile—I'm Arivalagan. <img src="https://raw.githubusercon
 
 
 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> -->
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> -->
 
 <!-- <div align="center">
@@ -83,5 +83,21 @@ Hey! Welcome to my profile—I'm Arivalagan. <img src="https://raw.githubusercon
 [![GitHub Streak](https://github-readme-streak-stats-xi-eight.vercel.app?user=smz-exe&theme=ambient-gradient&hide_border=true&card_width=854)](https://github.com/smz-exe)
 
 <br> -->
+# Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
+(Each repo is linked in the “Pinned” section below.)
+
+> ⚡ Each project focuses on real-world problem solving and scalable design.
 
 
+## 🌐 Want to connect?
+If my profile fits what you need, reach me at **arivalagansankar.dev@gmail.com** or message me on LinkedIn.
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arivalagan-tech&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+
+
+<div align=center>
+  <img  height=100px width= 100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</div>

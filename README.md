@@ -4,8 +4,8 @@
 </p> -->
 
 
-<!-- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Think%20Simple&animation=fadeIn&fontAlign=73&fontAlignY=40&fontSize=60&color=gradient"/> -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Think%20Simple&animation=fadeIn&fontAlign=73&fontAlignY=40&fontSize=60&color=gradient"/>
 
 
 

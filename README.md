@@ -13,13 +13,21 @@ Hey! Welcome to my profile—I'm Arivalagan. <img src="https://raw.githubusercon
 </h1>
 
 <p align="center">
-  A passionate Full-Stack Developer from India | 💻 Building scalable SaaS & AI systems
-</p>
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&pause=800&color=00F3FF&center=true&vCenter=true&width=700&lines=⚛️+React+Frontend+Engineer;✨+Transforming+Ideas+into+Reality;🌆+Building+Future+Systems;💡+Code.+Create.+Innovate.">
+</p> 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&pause=800&color=00F3FF&center=true&vCenter=true&width=700&lines=🚀+Full-Stack+Developer;🤖+AI+Engineer;🌆+Building+Future+Systems;💡+Code.+Create.+Innovate.">
+  A passionate Full-Stack Developer from India | 💻 Building scalable SaaS & AI systems
+ <p align="center">
+<sub>
+💭 <i>Pretty much any skill can be learnt and mastered - Sales, Coding, Entrepreneurship, even Rocketry!!!</i>
+</sub>
 </p>
+</p>
+
+<!-- <div>&nbsp;</div> -->
+
+<br><br>
 
 <div align="center">
   <img src="assets/git profile img.png" width="100%" alt="AI Banner"/>
@@ -35,12 +43,12 @@ Hey! Welcome to my profile—I'm Arivalagan. <img src="https://raw.githubusercon
   </a>
 
   <a href="https://www.linkedin.com/in/arivalagan-sankar-339012380/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn"/>
+</a>
 
   <a href="https://github.com/arivalagan-tech/arivalagan-tech/raw/main/assets/Arivalagan_Sankar_React_Frontend_Developer_Resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-334155?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume"/>
-  </a>
+  <img src="https://custom-icon-badges.demolab.com/badge/Download_Resume-7C3AED?style=for-the-badge&logo=download&logoColor=white" alt="Resume"/>
+</a>
 
   <a href="https://wa.me/918220151020">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>

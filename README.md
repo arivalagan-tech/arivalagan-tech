@@ -38,7 +38,7 @@ Hey! Welcome to my profile—I'm Arivalagan. <img src="https://raw.githubusercon
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
-  <a href="https://github.com/arivalagan-tech/arivalagan-tech/raw/main/assets/Arivalagan_Sankar_Frontend_Developer_Resume.pdf">
+  <a href="https://github.com/arivalagan-tech/arivalagan-tech/raw/main/assets/Arivalagan_Sankar_React_Frontend_Developer_Resume.pdf">
     <img src="https://img.shields.io/badge/Resume-334155?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume"/>
   </a>
 

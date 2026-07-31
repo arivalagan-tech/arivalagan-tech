@@ -32,29 +32,48 @@ Hey! Welcome to my profile—I'm Arivalagan. <img src="https://raw.githubusercon
 <div align="center">
   <img src="assets/git profile img.png" width="100%" alt="AI Banner"/>
 </div>
- 
+
+
+
 
 ## 📬 Contact
 
 <p align="left">
 
-  <a href="mailto:arivalagansankar.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-
   <a href="https://www.linkedin.com/in/arivalagan-sankar-339012380/">
   <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn"/>
 </a>
 
-  <a href="https://github.com/arivalagan-tech/arivalagan-tech/raw/main/assets/Arivalagan_Sankar_React_Frontend_Developer_Resume.pdf">
-  <img src="https://custom-icon-badges.demolab.com/badge/Download_Resume-7C3AED?style=for-the-badge&logo=download&logoColor=white" alt="Resume"/>
+<a href="https://arivalagan-portfolio.framer.website/">
+    <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-2563EB?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio"/>
+  </a>
+
+<a href="https://github.com/arivalagan-tech/arivalagan-tech/raw/main/assets/Arivalagan_Sankar_React_Frontend_Developer_Resume.pdf">
+  <img src="https://custom-icon-badges.demolab.com/badge/Download_Resume-FB923C?style=for-the-badge&logo=download&logoColor=white" alt="Download Resume"/>
 </a>
+
+  <a href="mailto:arivalagansankar.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 
   <a href="https://wa.me/918220151020">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> -->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />

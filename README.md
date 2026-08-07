@@ -116,6 +116,7 @@ Hey! Welcome to my profile—I'm Arivalagan. <img src="https://raw.githubusercon
 > ⚡ Each project focuses on real-world problem solving and scalable design.
 
 
+## 🌐 Want to connect?
 If my profile fits what you need, reach me at **arivalagansankar.dev@gmail.com** or message me on LinkedIn.
 
 <p align="center">

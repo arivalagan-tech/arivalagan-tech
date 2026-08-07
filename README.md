@@ -123,7 +123,3 @@ If my profile fits what you need, reach me at **arivalagansankar.dev@gmail.com**
   <img src="https://komarev.com/ghpvc/?username=arivalagan-tech&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-
-<div align=center>
-  <img  height=100px width= 100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</div>

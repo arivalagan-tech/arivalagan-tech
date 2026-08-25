@@ -17,7 +17,7 @@ Hey! Welcome to my profile—I'm Arivalagan. <img src="https://raw.githubusercon
 </p> 
 
 <p align="center">
-  A passionate Full-Stack Developer from India | 💻 Building scalable SaaS & AI systems
+  A passionate Full-Stack Developer from India | 💻 Building scalable SaaS, Fintech, Education, Hospitality, and enterprise client projects.
  <p align="center">
 <sub>
 💭 <i>Pretty much any skill can be learnt and mastered - Sales, Coding, Entrepreneurship, even Rocketry!!!</i>

@@ -48,7 +48,7 @@ Hey! Welcome to my profile—I'm Arivalagan. <img src="https://raw.githubusercon
     <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-2563EB?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio"/>
   </a>
 
-<a href="https://github.com/arivalagan-tech/arivalagan-tech/raw/main/assets/Arivalagan_Sankar_React_Frontend_Developer_Resume.pdf">
+<a href="https://github.com/arivalagan-tech/arivalagan-tech/raw/main/assets/Arivalagan_Sankar_UI_Developer_Resume.pdf">
   <img src="https://custom-icon-badges.demolab.com/badge/Download_Resume-FB923C?style=for-the-badge&logo=download&logoColor=white" alt="Download Resume"/>
 </a>
 
